@@ -1,6 +1,5 @@
-# Online Abortion Resources
 
-(for now, just to get information and links out quickly, the information/links may be somewhat disorganized. It will hopefully be a little more organized in the future)
+(for now, just to get information and links out quickly, the information/links may be somewhat disorganized. Hopefully it will continually get more organized.)
 
 ## Websites
 
