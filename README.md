@@ -12,7 +12,9 @@
 - [Plan C - Abortion pill info & finding pills by state](https://www.plancpills.org)
 - [Self-Manage Abortions; Safe & Support (SASS)- Abortion pill info](https://abortionpillinfo.org)
 - [Mayday.health - How to get abortion pills in any state](https://mayday.health)
+- [Abortion Finder - find providers & other resources](https://www.abortionfinder.org/)
 - [I Need An A - Locate clinics](https://www.ineedana.com)
+- [Keep Our Clinics - support independent clinics](https://keepourclinics.org/donate/)
 - [We Won't Go Back - Find/Take Action Map](https://map.wewontgoback.com)
 - [Planned Parenthool](https://www.plannedparenthood.org)
 
