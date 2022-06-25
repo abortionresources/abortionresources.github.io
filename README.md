@@ -1,5 +1,5 @@
 
-(for now, just to get information and links out quickly, the information/links may be somewhat disorganized. Hopefully it will continually get more organized.)
+<sup> (for now, just to get information and links out quickly, the information/links may be somewhat disorganized. Hopefully it will continually get more organized.) </sup>
 
 ## Websites
 
