@@ -1,15 +1,15 @@
-# Online Abortion Resources
+# Online A    bortion Resources
 
 (for now, just to get information and links out quickly, the information/links may be somewhat disorganized. It will hopefully be a little more organized in the future)
 
-## [Websites](#websites)
+## Websites
 
-### [Action/Activism](#action-activism)
+### Action/Activism
 
 - [Shout Your Abortion - normalizing abortion & elevating safe paths to access, regardless of legality](https://shoutyourabortion.com)
 - [We Won't Go Back - Find/Take Action Map](https://map.wewontgoback.com)
 
-### [Abortion Pills - info & access](#abortion-pills)
+### Abortion Pills - info & access
 
 - [Abortion Pill info from ShoutYourAbortion](https://shareabortionpill.info)
 - [Safe pill info from NNAF](https://abortionfunds.org/safe-abortion-using-pills)
@@ -19,21 +19,21 @@
 - [Mayday.health - How to get abortion pills in any state](https://mayday.health)
 - [Abortion Finder - find providers & other resources](https://www.abortionfinder.org/)
 
-### [Clinics & Assistance](#clinics-assistance)
+### Clinics & Assistance
 
 - [I Need An A - Locate clinics](https://www.ineedana.com)
 - [Women's Reproductive Rights Assistance Project - help disadvantaged people who seek abortion & emergency contraceptives](https://wrrap.org)
 - [Planned Parenthood](https://www.plannedparenthood.org)
 
-### [Funds - Find & Support](#funding-support)
+### Funds - Find & Support
 
 - [National Network of Abortion Funds(NNAF) - find help & support abortion funds](https://abortionfunds.org)
   - [Find & Support Local Abortion Funds](https://abortionfunds.org/funds)
 - [Keep Our Clinics - support independent clinics](https://keepourclinics.org/donate/)
 
-## [Resources on Social Media](#social-media)
+## Resources on Social Media
 
-### [Instagram](#social-media-instagram)
+### Instagram
 
 - [@plancpills - abortion pill access & information](https://www.instagram.com/plancpills)
 - [@abortionfunds - find & support abortion funds](https://www.instagram.com/abortionfunds)
