@@ -1,5 +1,4 @@
 title: Abortion Resources
 #email: your-email@example.com
 description: Online Abortion Resources
-#theme: jekyll-theme-midnight
-remote_theme: poole/lanyon
+theme: jekyll-theme-midnight
