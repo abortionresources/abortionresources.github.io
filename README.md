@@ -1,4 +1,4 @@
-# Online A    bortion Resources
+# Online Abortion Resources
 
 (for now, just to get information and links out quickly, the information/links may be somewhat disorganized. It will hopefully be a little more organized in the future)
 
