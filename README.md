@@ -24,7 +24,7 @@
 - [Women's Reproductive Rights Assistance Project - help disadvantaged people who seek abortion & emergency contraceptives](https://wrrap.org)
 - [Abortion Care Network](https://abortioncarenetwork.org)
   - [ACN providers list](https://abortioncarenetwork.org/abortion-care-providers)
-  - Text 'hello' to [1-202-883-4620](sms:+12028834620). When prompted to enter your ZIP code & receive a list of the three closest ACN member clinics
+  - Text 'hello' to [1-202-883-4620](sms:+12028834620). When prompted to enter your ZIP code & receive a list of the three closest ACN member clinics. (There could be other non-member clinics closer to you.)
   - [IG @abortioncarenetwork](https://www.instagram.com/abortioncarenetwork)
 - [National Abortion Federation (NAF)](https://prochoice.org)
   - [1-800-772-9100](tel:+18007729100)
