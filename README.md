@@ -1,5 +1,5 @@
 
-<sup> (for now, just to get information and links out quickly, the information/links may be somewhat disorganized. Hopefully it will continually get more organized.) </sup>
+<sup> (This is a work in progress, the information/links may be somewhat disorganized. Hopefully it will continually get more organized.) </sup>
 
 ## Websites
 
@@ -18,17 +18,44 @@
 - [Mayday.health - How to get abortion pills in any state](https://mayday.health)
 - [Abortion Finder - find providers & other resources](https://www.abortionfinder.org/)
 
-### Clinics & Assistance
+### Find Clinics & Get Assistance
 
 - [I Need An A - Locate clinics](https://www.ineedana.com)
 - [Women's Reproductive Rights Assistance Project - help disadvantaged people who seek abortion & emergency contraceptives](https://wrrap.org)
+- [Abortion Care Network](https://abortioncarenetwork.org)
+  - [ACN providers list](https://abortioncarenetwork.org/abortion-care-providers)
+  - Text 'hello' to [1-202-883-4620](sms:+12028834620). When prompted to enter your ZIP code & receive a list of the three closest ACN member clinics
+  - [IG @abortioncarenetwork](https://www.instagram.com/abortioncarenetwork)
+- [National Abortion Federation (NAF)](https://prochoice.org)
+  - [1-800-772-9100](tel:+18007729100)
 - [Planned Parenthood](https://www.plannedparenthood.org)
 
-### Funds - Find & Support
+### Funds/Financial Assistance - Find/Access & Support
 
 - [National Network of Abortion Funds(NNAF) - find help & support abortion funds](https://abortionfunds.org)
   - [Find & Support Local Abortion Funds](https://abortionfunds.org/funds)
 - [Keep Our Clinics - support independent clinics](https://keepourclinics.org/donate/)
+
+### Support
+
+- [All-Options talkline - pregnancy, abortion, adoption, parenting, infertility & pregnancy loss support](https://www.all-options.org/find-support/talkline)
+  - Talkline - [1-888-493-0092](tel:+18884930092)
+- [Reprocare - At home pill abortion information and compassionate emotional support](https://abortionhotline.org)
+  - Healthline - [1-833-226-7821](tel:+18332267821)
+- [Exhale - after abortion support](https://exhaleprovoice.org)
+  - [1-617-749-2948](tel:+16177492948)
+
+### Medical/Abortion Questions & Info & Education
+
+- [M+A Hotline - confidential medical questions(free) & resources](https://www.mahotline.org)
+  - Call or text [1-833-246-2632](tel:1-833-246-2632)
+- [Euki App - secure productive/sexual healt app](https://eukiapp.com)
+- [DOPO - Abortion care and education for all (her/him/them)](https://www.wearedopo.com)
+
+### Legal help/questions/defense funds
+
+- [Repo Legal Help Line](https://www.reprolegalhelpline.org)
+- [Repo Legal Defense Fund](https://reprolegaldefensefund.org)
 
 ## Resources on Social Media
 
@@ -38,5 +65,5 @@
 - [@abortionfunds - find & support abortion funds](https://www.instagram.com/abortionfunds)
 - [@keepourclinics - Support indie clinics](https://www.instagram.com/keepourclinics)
 - [@ineedanacom - Find a clinic](https://www.instagram.com/ineedanacom)
-- [@wrrapreprojustice](https://instagram.com/wrrapreprojustice)
-- [@shoutyourabortion](https://www.instagram.com/shoutyourabortion)
+- [@wrrapreprojustice - Women’s Reproductive Rights Assistance Project](https://www.instagram.com/wrrapreprojustice)
+- [@shoutyourabortion - normalizing abortion & elevating safe paths to access, regardless of legality](https://www.instagram.com/shoutyourabortion)
