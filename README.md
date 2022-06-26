@@ -47,8 +47,8 @@
 
 ### Medical/Abortion Questions & Info & Education
 
-- [M+A Hotline - confidential medical questions(free) & resources](https://www.mahotline.org)
-  - Call or text [1-833-246-2632](tel:1-833-246-2632)
+- [Miscarriage + Abortion Hotline - answers confidential questions, advice, & resources](https://www.mahotline.org) (free)
+  - 1-833-246-2632 [Call](tel:1-833-246-2632) or [text](sms:1-833-246-2632)
 - [Euki App - secure productive/sexual healt app](https://eukiapp.com)
 - [DOPO - Abortion care and education for all (her/him/them)](https://www.wearedopo.com)
 
