@@ -6,8 +6,7 @@
 ### Action/Activism
 
 - [Shout Your Abortion - normalizing abortion & elevating safe paths to access, regardless of legality](https://shoutyourabortion.com)
-- [We Won't Go Back - Find/Take Action Map](https://map.wewontgoback.com)
-- 
+- [We Won't Go Back - Find/Take Action Map](https://map.wewontgoback.com) 
 
 ### Abortion Pills - info & access
 
