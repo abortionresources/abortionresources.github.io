@@ -10,13 +10,14 @@
 
 ### Abortion Pills - info & access
 
-- [Abortion Pill info from ShoutYourAbortion](https://shareabortionpill.info)
-- [Safe pill info from NNAF](https://abortionfunds.org/safe-abortion-using-pills)
 - [Plan C - Abortion pill info & finding pills by state](https://www.plancpills.org)
 - [AidAccess - Abortion pill info & pills by mail](https://aidaccess.org)
 - [Self-Manage Abortions; Safe & Support (SASS)- Abortion pill info](https://abortionpillinfo.org)
 - [Mayday.health - How to get abortion pills in any state](https://mayday.health)
 - [Abortion Finder - find providers & other resources](https://www.abortionfinder.org/)
+- [how to use abortion pill (multilingual)](https://www.howtouseabortionpill.org)
+- [Abortion Pill info from ShoutYourAbortion](https://shareabortionpill.info)
+- [Safe pill info from NNAF](https://abortionfunds.org/safe-abortion-using-pills)
 
 ### Find Clinics & Get Assistance
 
@@ -67,3 +68,4 @@
 - [@ineedanacom - Find a clinic](https://www.instagram.com/ineedanacom)
 - [@wrrapreprojustice - Women’s Reproductive Rights Assistance Project](https://www.instagram.com/wrrapreprojustice)
 - [@shoutyourabortion - normalizing abortion & elevating safe paths to access, regardless of legality](https://www.instagram.com/shoutyourabortion)
+- [how to use abortion pill](https://www.instagram.com/htuabortionpill)
