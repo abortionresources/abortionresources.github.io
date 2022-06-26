@@ -49,7 +49,7 @@
 
 - [Miscarriage + Abortion Hotline - answers confidential questions, advice, & resources](https://www.mahotline.org) (free)
   - 1-833-246-2632 [Call](tel:1-833-246-2632) or [text](sms:1-833-246-2632)
-- [Euki App - secure productive/sexual healt app](https://eukiapp.com)
+- [Euki App - secure reproductive/sexual health app](https://eukiapp.com) ([SSAS link](https://abortionpillinfo.org/en/euki-app))
 - [DOPO - Abortion care and education for all (her/him/them)](https://www.wearedopo.com)
 
 ### Legal help/questions/defense funds
